@@ -14,10 +14,10 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "I'm Andy"
+title = "Andy Foster"
 author = "Andy Foster"
-description = "Call me Andy"
-profilePicture = "images/profile.jpg"
+description = "Welcome"
+profilePicture = "https://avatars1.githubusercontent.com/u/1583113?s=460&u=5dc309873e6a42d90a20cfe0912ac782b4878e7a&v=4"
 keywords = ""
 favicon = "favicons/"
 customCss = []
