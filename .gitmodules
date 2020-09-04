@@ -1,0 +1,3 @@
+[submodule "themes/hugo-anatole-theme"]
+	path = themes/hugo-anatole-theme
+	url = https://github.com/lxndrblz/anatole.git
