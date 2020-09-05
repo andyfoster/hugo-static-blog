@@ -1,4 +1,4 @@
-baseURL = "http://hugo-andy-foster.com.s3-website-ap-southeast-2.amazonaws.com"
+baseURL = "/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Andy's Blog"
